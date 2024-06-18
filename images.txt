@@ -7,3 +7,4 @@ xhofe/alist:latest
 searxng/searxng:latest
 clamav/clamav:latest
 vaultwarden/server:latest
+gdy666/lucky:latest
