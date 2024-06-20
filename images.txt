@@ -20,3 +20,5 @@ qingfeng2336/it-tools:latest
 hectorqin/reader
 stilleshan/linux-command
 surveyking/surveyking
+containrrr/watchtower
+0nlylty/dockercopilot:UGREEN
