@@ -8,3 +8,15 @@ searxng/searxng:latest
 clamav/clamav:latest
 vaultwarden/server:latest
 gdy666/lucky:latest
+cooderl/wewe-rss-sqlite:latest
+dingdangdog/cashbook
+fogforest/yesplaymusic
+ghcr.io/wy580477/musicn-container:latest
+lissy93/web-check
+jason5ng32/myip:latest
+talebook/talebook
+wcjiang/reference:latest
+qingfeng2336/it-tools:latest
+hectorqin/reader
+stilleshan/linux-command
+surveyking/surveyking
